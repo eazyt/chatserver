@@ -1,4 +1,4 @@
-This is a chatserver app.Its a node js app using mongodb for persistent data. I would like to this on kubernetes cluster.
+This is a chatserver app.Its a node js app using mongodb for persistent data. I would like to deploy this on kubernetes cluster.
 For kubernetes setup i have included dynamical nfs provisioning but can do without.
 
 1). deploy the storage-class
