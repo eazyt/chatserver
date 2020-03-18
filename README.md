@@ -32,3 +32,6 @@ For kubernetes setup i have included dynamical nfs provisioning but can do witho
 you are welcome to change it however as long as it can save the data to the database. ofcourse commments would go a long way in understanding the change
 
 LETS CODE!!!
+################################################
+
+this was accomplished thank for those that assisted
